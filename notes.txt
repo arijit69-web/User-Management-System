@@ -1,0 +1,6 @@
+1. We are following MVC architecture
+2. We will not store data in the MongoDB LocalHost as we are working on a big project and if somehow our hard disk crash we will lost all our data.
+3. Use MongoDB Cloud
+4. How to setup database in MongoDB cloud - Watch Video [MongoDB time stamp] 
+5. Postman is a API testing tool that help us to test the APIs
+Youtube Video Link : https://www.youtube.com/watch?v=W1Kttu53qTg&t=4081s
