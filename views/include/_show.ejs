@@ -7,11 +7,14 @@
   <td><%=users[i].status %></td>
   <td>
     <a href="/update-user?id=<%=users[i]._id %>" class="btn border-shadow update">
+      <!-- Edit button - we are passing the DB _id of a specific user in the query parameter [?id=] so that we can easily fetch the specific user's data from the URL-[http://localhost/api/users] and send that user's data to update_user.ejs -->
       <span class="text-gradient">
         <i class="fa-solid fa-user-pen"></i>
       </span>
     </a>
     <a class="btn border-shadow delete"data-id=<%=users[i]._id%>>
+      <!-- The data-* attributes gives us the ability to embed custom data attributes on all HTML elements. -->
+      <!-- I will get the user id when I will click on this bin icon and make a delete request and delete the specific user -->
       <span class="text-gradient">
         <i class="fa-solid fa-trash"></i>
       </span>

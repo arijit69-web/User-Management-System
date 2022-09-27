@@ -36,8 +36,13 @@ To delete the data from the DB we use delete method and pass the :id variable in
 
 */
 route.post("/api/users", controller.create);
+/*When save button is clicked it will redirect the post request to this route
+and if the POST method and the route is matched it will go to controller.js and call create method 
+*/ 
+
 
 route.get("/api/users", controller.find);
+//display all the users's data from the DB as response data in JSON format
 
 route.put("/api/users/:id", controller.update);
 
