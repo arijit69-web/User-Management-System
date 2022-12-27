@@ -25,10 +25,10 @@ A User Management System provides functionality for managing personal profiles a
 
 <img width="960" alt="Pic-1" src="https://user-images.githubusercontent.com/60184336/192534972-08f8db71-4418-4efd-a10e-25633fff9b44.PNG">
 
-## 3. Update a user data
+## 3. Update a user's data
 
 <img width="960" alt="Pic-3" src="https://user-images.githubusercontent.com/60184336/192534981-11f55338-c17b-4c58-8e1a-cb2bc3aa4945.PNG">
 
-## 4. Delete a user data
+## 4. Delete a user
 
 <img width="960" alt="Pic-4" src="https://user-images.githubusercontent.com/60184336/192534995-3efb7777-f694-4d22-a1c1-a0554c3f82c7.PNG">
