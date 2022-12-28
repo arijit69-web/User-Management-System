@@ -12,7 +12,6 @@ A User Management System provides functionality for managing personal profiles a
 - ExpressJS
 - EJS 
 - MongoDB
-
 ```
 
 ## Screenshots of the Website :
